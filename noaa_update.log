@@ -134,3 +134,2453 @@ Kept latest block and rewrote data/noaa_raw.txt
 ⚙️ Running pipeline scripts...
 ✅ Pipeline complete. Data refreshed.
 🎉 Update finished at 2025-10-01T20:55:05.024972+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T20:56:03.526537+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T20:57:05.756065+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T20:58:04.540996+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T20:59:04.893899+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:00:04.762487+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:01:04.822186+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:02:06.175200+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:03:04.705371+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:04:04.527317+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:05:04.617723+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:06:06.119295+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:07:04.431653+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:08:05.399185+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:09:05.198238+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:10:05.210657+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:11:05.240455+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:12:03.754630+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:13:05.606397+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:14:04.698553+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:15:04.799511+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:16:05.209076+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:17:03.705539+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:18:04.731295+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:19:04.647214+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:20:05.103556+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:21:03.519135+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:22:04.078684+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:23:04.769936+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:24:05.413286+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:25:04.228368+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:26:05.015050+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:27:03.541265+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:28:04.744822+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:29:05.764002+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:30:05.121333+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:31:04.025113+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:32:05.103295+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:33:03.981497+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:34:05.630428+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:35:04.540138+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:36:05.665985+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:37:04.430169+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:38:05.833400+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:39:04.784563+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:40:05.464945+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:41:03.825108+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:42:06.223510+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:43:04.220284+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:44:05.675058+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:45:04.172554+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:46:04.088066+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:47:04.323993+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:48:04.035096+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:49:03.980622+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:50:06.405637+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:51:04.750100+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:52:05.715078+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:53:04.597611+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:54:04.667094+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:55:05.222339+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:56:05.406520+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:57:04.323957+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:58:04.514270+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T21:59:04.257489+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:00:04.374965+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:01:04.163964+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:02:05.318715+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:03:04.071798+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:04:05.072021+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:05:04.004540+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:06:05.265840+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:07:04.973751+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:08:05.191332+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:09:05.225480+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:10:03.889778+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:11:06.071909+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:12:04.987235+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:13:03.866601+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:14:06.365725+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:15:04.563739+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:16:05.643512+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:17:05.148322+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:18:03.807847+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:19:05.301536+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:20:04.697878+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:21:04.351218+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:22:04.044032+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:23:04.554371+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:24:05.111106+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:25:03.944389+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:26:06.232988+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:27:03.886365+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:28:04.635851+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:29:04.986571+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:30:03.883157+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:31:05.038741+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:32:05.549225+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:33:04.525523+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:34:04.635289+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:35:05.489993+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:36:05.801696+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:37:04.807863+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:38:05.900361+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:39:04.990116+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:40:04.457092+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:41:05.131107+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:42:03.701489+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:43:04.622504+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:44:07.318879+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:45:04.884610+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:46:04.657025+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:47:04.595211+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:48:06.179974+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:49:04.141587+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:50:05.242682+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:51:04.241154+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:52:04.313549+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:53:05.378400+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:54:04.835234+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:55:05.240000+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:56:04.959059+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:57:05.145949+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:58:03.819406+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T22:59:05.998975+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:00:04.479379+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:01:04.564147+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:02:05.266835+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:03:03.859522+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:04:05.083345+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:05:04.839327+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:06:05.455392+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:07:05.060145+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:08:04.555585+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:09:04.214071+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:10:04.546931+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:11:04.986313+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:12:04.447046+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:13:04.575568+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:14:05.125512+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:15:03.830606+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:16:05.002312+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:17:03.738738+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:18:04.972519+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:19:04.269944+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:20:05.767629+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:21:05.026520+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:22:03.843084+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:23:05.613615+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:24:04.681260+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:25:05.535885+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:26:05.193163+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:27:04.567382+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:28:05.426542+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:29:04.468040+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:30:04.947229+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:31:06.279584+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:32:04.776395+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:33:05.173660+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-01 00:00:00  5.33
+1 2025-10-02 00:00:00  3.33
+2 2025-10-03 00:00:00  3.00
+3 2025-10-01 03:00:00  5.33
+4 2025-10-02 03:00:00  3.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-01T23:34:03.640266+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:08:04.927067+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:09:03.794043+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:10:04.733468+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:11:05.936322+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:12:04.605209+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:13:04.627661+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:14:04.997381+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:15:06.971509+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:16:03.878391+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:17:02.998342+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:18:05.950275+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:19:02.519960+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:20:04.437007+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:21:02.384040+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:22:04.713262+00:00
+✅ Parsed 24 rows -> data/noaa_all_parsed.csv
+             datetime    kp
+0 2025-10-03 00:00:00  5.00
+1 2025-10-04 00:00:00  4.33
+2 2025-10-05 00:00:00  3.67
+3 2025-10-03 03:00:00  4.67
+4 2025-10-04 03:00:00  4.00
+Wrote: data/noaa_all_parsed_enriched.csv rows: 24
+Kept latest block and rewrote data/noaa_raw.txt
+📡 Fetching NOAA 3-day forecast...
+✅ Saved latest forecast to data/noaa_raw.txt
+⚙️ Running pipeline scripts...
+✅ Pipeline complete. Data refreshed.
+🎉 Update finished at 2025-10-03T09:23:06.145159+00:00
