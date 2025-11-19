@@ -654,6 +654,43 @@ def get_latest_observation():
         logger.exception("Error serving latest observation")
         raise HTTPException(status_code=500, detail=str(e))
 
+# ---------------------------
+# ### DIAGNOSTIC - REMOVE AFTER DEBUGGING ###
+# ---------------------------
+# Temporary route & startup log to help diagnose 404 / route registration issues on Render.
+@app.get("/api/observations/test")
+def observations_test():
+    """Temporary test route to confirm the deployed app is the expected revision."""
+    return {"ok": True, "app": "space-3day", "time": datetime.utcnow().replace(tzinfo=UTC).isoformat()}
+
+@app.on_event("startup")
+def _diagnostic_log_routes():
+    """
+    Temporary startup diagnostic: print registered routes and masked mongo preview to logs.
+    Remove this function after you're done debugging.
+    """
+    try:
+        routes_info = [(getattr(r, "path", None), sorted(list(getattr(r, "methods", [])))) for r in app.routes if getattr(r, "path", None)]
+        # limit output length to avoid huge logs
+        logger.info("DIAGNOSTIC: REGISTERED ROUTES (%d): %s", len(routes_info), routes_info)
+
+        try:
+            uri_preview = (MONGODB_URI or "")
+            if "@" in uri_preview:
+                uri_preview = uri_preview.split("@", 1)[1]
+            if len(uri_preview) > 140:
+                uri_preview = uri_preview[:140] + "..."
+            logger.info("DIAGNOSTIC: MONGO URI (masked preview): %s", uri_preview or "(not set)")
+            logger.info("DIAGNOSTIC: MONGO DB configured: %s / obs-collection: %s", MONGODB_DB, MONGODB_OBS_COLLECTION)
+            logger.info("DIAGNOSTIC: _mongo_client initialized: %s ; _obs: %s", _mongo_client is not None, _obs is not None)
+        except Exception as e:
+            logger.warning("DIAGNOSTIC: failed to print mongo info: %s", e)
+    except Exception as e:
+        logger.exception("DIAGNOSTIC: Failed to log route list: %s", e)
+# ---------------------------
+# ### END DIAGNOSTIC ###
+# ---------------------------
+
 # ---------- CRON endpoint ----------
 @app.post("/cron/daily")
 def cron_daily(request: Request):
