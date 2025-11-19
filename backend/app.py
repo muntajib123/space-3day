@@ -2,14 +2,13 @@
 """
 FastAPI server for 3-day space-weather forecasts.
 
-What’s new in this version:
-- Always fetch NOAA just before predicting
-- Start horizon = the day AFTER NOAA’s 3rd day (auto-aligned; no overlap)
-- Daily cron at SCHEDULE_CRON_HOUR + SCHEDULE_CRON_MINUTE (UTC)
-- Saves each run to MongoDB (predictions_runs)
-- Observations + metrics endpoints preserved
+What's included:
+- prediction generation (model + scaler)
+- fetch & parse NOAA 3-day bulletin
+- scheduler + internal sync endpoint
+- new: /api/observations/latest endpoint which returns the latest
+       observation from Mongo, or from CSV, or best-effort from NOAA text.
 """
-
 import os
 import re
 import json
@@ -531,6 +530,130 @@ def get_predictions():
         logger.exception("Error serving predictions")
         raise HTTPException(status_code=500, detail=str(e))
 
+# ---------- Observations helpers & endpoint ----------
+def _latest_obs_from_mongo() -> Optional[Dict[str, Any]]:
+    """Return the latest observation document from Mongo if available."""
+    if _obs is None:
+        return None
+    doc = _obs.find_one(sort=[("datetime", -1)])
+    if not doc:
+        return None
+    # Convert Mongo datetime-like strings if necessary; keep keys simple
+    return {
+        "datetime": doc.get("datetime"),
+        "kp": doc.get("kp"),
+        "solar_radiation": doc.get("solar_radiation"),
+        "radio_blackout": doc.get("radio_blackout"),
+        "source": "mongo",
+    }
+
+def _latest_obs_from_enriched_csv() -> Optional[Dict[str, Any]]:
+    """Return last row from the enriched CSV if present."""
+    if not PARSED_ENRICHED_CSV.exists():
+        return None
+    try:
+        df = pd.read_csv(PARSED_ENRICHED_CSV, low_memory=False, parse_dates=True)
+        # try to find a datetime-like column
+        dt_col = None
+        for c in df.columns:
+            if "datetime" in c.lower() or "time" in c.lower() or "valid" in c.lower():
+                dt_col = c
+                break
+        if dt_col is None:
+            # fallback: pick last row
+            last = df.tail(1).iloc[0]
+            kp = last.get("kp") or last.get("Kp") or last.get("kp_index")
+            return {
+                "datetime": None,
+                "kp": float(kp) if kp is not None else None,
+                "solar_radiation": None,
+                "radio_blackout": None,
+                "source": "enriched_csv",
+            }
+        ser = pd.to_datetime(df[dt_col], errors="coerce")
+        df[dt_col] = ser
+        df = df.dropna(subset=[dt_col])
+        if df.empty:
+            return None
+        last_row = df.loc[df[dt_col].idxmax()]
+        kp = None
+        for candidate in ["kp", "Kp", "kp_index"]:
+            if candidate in last_row:
+                kp = last_row[candidate]
+                break
+        return {
+            "datetime": last_row[dt_col].tz_localize("UTC").isoformat() if getattr(last_row[dt_col], "tz", None) is None else last_row[dt_col].isoformat(),
+            "kp": float(kp) if kp is not None and not pd.isna(kp) else None,
+            "solar_radiation": float(last_row.get("solar_radiation")) if "solar_radiation" in last_row and not pd.isna(last_row.get("solar_radiation")) else None,
+            "radio_blackout": float(last_row.get("radio_blackout")) if "radio_blackout" in last_row and not pd.isna(last_row.get("radio_blackout")) else None,
+            "source": "enriched_csv",
+        }
+    except Exception as e:
+        logger.warning("Failed reading enriched CSV for latest obs: %s", e)
+        return None
+
+def _latest_obs_from_noaa_bulletin() -> Optional[Dict[str, Any]]:
+    """Try to extract a quick 'latest observation' value from the NOAA bulletin text."""
+    if not NOAA_PRESENT_SAVE.exists():
+        return None
+    try:
+        text = NOAA_PRESENT_SAVE.read_text(encoding="utf-8", errors="ignore")
+        # pattern: "The greatest observed 3 hr Kp over the past 24 hours was 4"
+        m = re.search(r"greatest observed .*?was\s+(\d+(?:\.\d+)?)", text, flags=re.IGNORECASE)
+        if m:
+            kp_val = float(m.group(1))
+            # Build a best-effort response: use fetched_at as now
+            fetched_at = datetime.utcnow().replace(tzinfo=UTC).isoformat()
+            return {
+                "datetime": fetched_at,
+                "kp": kp_val,
+                "solar_radiation": None,
+                "radio_blackout": None,
+                "source": "noaa-bulletin",
+            }
+        # fallback: sometimes bulletin contains "The largest was at Nov 16 2025 0817 UTC."
+        m2 = re.search(r"largest .* at\s+([A-Za-z]{3,}\s+\d{1,2}\s+\d{4}\s+\d{3,4}\s+UTC)", text)
+        if m2:
+            found = m2.group(1)
+            return {"datetime": found, "kp": None, "solar_radiation": None, "radio_blackout": None, "source": "noaa-bulletin"}
+    except Exception as e:
+        logger.warning("Failed parsing NOAA bulletin for latest obs: %s", e)
+    return None
+
+@app.get("/api/observations/latest")
+def get_latest_observation():
+    """
+    Return a best-effort 'latest observation' record.
+    Priority:
+      1) Mongo _obs collection (if initialized and has docs)
+      2) enriched CSV last row (if present)
+      3) NOAA bulletin quick parse
+      4) 404 if none available
+    """
+    try:
+        # 1) Mongo
+        m = _latest_obs_from_mongo()
+        if m:
+            return JSONResponse(content=m, headers={"Cache-Control": "no-store"})
+
+        # 2) enriched CSV
+        c = _latest_obs_from_enriched_csv()
+        if c:
+            return JSONResponse(content=c, headers={"Cache-Control": "no-store"})
+
+        # 3) NOAA bulletin quick parse
+        n = _latest_obs_from_noaa_bulletin()
+        if n:
+            return JSONResponse(content=n, headers={"Cache-Control": "no-store"})
+
+        # nothing available
+        raise HTTPException(status_code=404, detail="No observations available (mongo/csv/bulletin not found).")
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.exception("Error serving latest observation")
+        raise HTTPException(status_code=500, detail=str(e))
+
 # ---------- CRON endpoint ----------
 @app.post("/cron/daily")
 def cron_daily(request: Request):
@@ -540,7 +663,7 @@ def cron_daily(request: Request):
     run_job_and_update_memory()
     return {"ok": True, "ran_at": datetime.utcnow().replace(tzinfo=UTC).isoformat()}
 
-# ---------- Observations & Metrics ----------
+# ---------- Observations & Metrics (existing endpoints) ----------
 @app.post("/api/observations/upsert")
 def upsert_observations(payload: Dict[str, Any] = Body(...)):
     if _obs is None:
@@ -702,6 +825,5 @@ def internal_sync(background_tasks: BackgroundTasks):
       2) regenerate predictions (runs run_job_and_update_memory)
     Call once after deploy or when data looks stale.
     """
-    # run_job_and_update_memory does: fetch NOAA, generate predictions, save csv, save to mongo
     background_tasks.add_task(run_job_and_update_memory)
     return {"status": "sync started"}
