@@ -898,3 +898,13 @@ def internal_sync(background_tasks: BackgroundTasks):
     """
     background_tasks.add_task(run_job_and_update_memory)
     return {"status": "sync started"}
+# ---------------------------
+# ### DIAGNOSTIC - REMOVE AFTER DEBUGGING ###
+# ---------------------------
+@app.get("/api/observations/test")
+def observations_test():
+    return {"ok": True, "app": "space-3day"}
+
+@app.get("/api/observations/latest_fallback")
+def observations_latest_fallback():
+    return {"status": "fallback ok"}
