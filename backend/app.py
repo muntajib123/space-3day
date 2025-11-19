@@ -33,6 +33,7 @@ from dotenv import load_dotenv
 
 # MongoDB
 from pymongo import MongoClient, ASCENDING, ReturnDocument
+from bson.json_util import dumps as bson_dumps
 
 # ---------- logging ----------
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -654,6 +655,39 @@ def get_latest_observation():
         logger.exception("Error serving latest observation")
         raise HTTPException(status_code=500, detail=str(e))
 
+# ---------- Temporary fallback endpoint: direct Mongo query ----------
+@app.get("/api/observations/latest_fallback")
+def get_latest_observation_fallback():
+    """
+    Temporary fallback: connect directly to Mongo using MONGODB_URI and return
+    the latest document from the configured observations collection.
+    Useful for debugging/confirming Atlas connectivity on Render.
+    """
+    if not MONGODB_URI:
+        raise HTTPException(status_code=500, detail="MONGODB_URI not configured on server.")
+
+    try:
+        # create a short-lived client to bypass any module-level init issues
+        client = MongoClient(MONGODB_URI, serverSelectionTimeoutMS=5000)
+        db = client[MONGODB_DB or "spaceweather"]
+        col = db[MONGODB_OBS_COLLECTION or "observations"]
+
+        # find the newest by datetime, fallback to _id if datetime not present
+        doc = col.find_one(sort=[("datetime", -1), ("_id", -1)])
+        client.close()
+
+        if not doc:
+            # Return helpful message (404) so you know the collection was empty
+            raise HTTPException(status_code=404, detail="No documents found in observations collection (fallback).")
+
+        # Convert BSON -> JSON-safe by using bson.json_util.dumps then parse to Python object
+        json_text = bson_dumps(doc)   # returns a JSON string
+        return JSONResponse(content=json.loads(json_text), headers={"Cache-Control": "no-store"})
+    except Exception as e:
+        logger.exception("Fallback latest observation failed: %s", e)
+        # Do not leak credentials; return helpful error
+        raise HTTPException(status_code=500, detail="Fallback failed to query MongoDB. See server logs.")
+
 # ---------------------------
 # ### DIAGNOSTIC - REMOVE AFTER DEBUGGING ###
 # ---------------------------
@@ -794,7 +828,7 @@ def _num_or_none(cell: str) -> Optional[float]:
     return float(m.group(1)) if m else None
 
 def _parse_kp_table(lines: List[str]) -> Dict[str, List[Optional[float]]]:
-    slots: Dict[str, List[Optional[float]]] = {}
+    slots: Dict[str, List[Optional[float]] = {}
     for ln in lines:
         if not ln or "UT" not in ln:
             continue
